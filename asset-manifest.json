@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movify-react/static/css/main.2591fc40.chunk.css",
-    "main.js": "/movify-react/static/js/main.ee178874.chunk.js",
-    "main.js.map": "/movify-react/static/js/main.ee178874.chunk.js.map",
+    "main.js": "/movify-react/static/js/main.32a41909.chunk.js",
+    "main.js.map": "/movify-react/static/js/main.32a41909.chunk.js.map",
     "runtime-main.js": "/movify-react/static/js/runtime-main.02aca930.js",
     "runtime-main.js.map": "/movify-react/static/js/runtime-main.02aca930.js.map",
     "static/js/2.0aa60f8b.chunk.js": "/movify-react/static/js/2.0aa60f8b.chunk.js",
     "static/js/2.0aa60f8b.chunk.js.map": "/movify-react/static/js/2.0aa60f8b.chunk.js.map",
     "index.html": "/movify-react/index.html",
-    "precache-manifest.af0457380a4c52c4f050a832828a4a6c.js": "/movify-react/precache-manifest.af0457380a4c52c4f050a832828a4a6c.js",
+    "precache-manifest.50bdc3e3b1e382e13997b37f6e7bd5ec.js": "/movify-react/precache-manifest.50bdc3e3b1e382e13997b37f6e7bd5ec.js",
     "service-worker.js": "/movify-react/service-worker.js",
     "static/css/main.2591fc40.chunk.css.map": "/movify-react/static/css/main.2591fc40.chunk.css.map",
     "static/js/2.0aa60f8b.chunk.js.LICENSE.txt": "/movify-react/static/js/2.0aa60f8b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.02aca930.js",
     "static/js/2.0aa60f8b.chunk.js",
     "static/css/main.2591fc40.chunk.css",
-    "static/js/main.ee178874.chunk.js"
+    "static/js/main.32a41909.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3446ef0e0dc6dd914307e5e58c072f0",
+    "revision": "c23179e43a1ed1607ed359a118af5231",
     "url": "/movify-react/index.html"
   },
   {
-    "revision": "03b3c582282bc46d3459",
+    "revision": "d1da47f6d3f71586be60",
     "url": "/movify-react/static/css/main.2591fc40.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/movify-react/static/js/2.0aa60f8b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03b3c582282bc46d3459",
-    "url": "/movify-react/static/js/main.ee178874.chunk.js"
+    "revision": "d1da47f6d3f71586be60",
+    "url": "/movify-react/static/js/main.32a41909.chunk.js"
   },
   {
     "revision": "bd23552631f50cebfbd0",
