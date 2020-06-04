@@ -15,7 +15,7 @@ export const fetchMovies = (value) => {
             setTimeout(() => dispatch({type:REMOVE_ERROR}), 1000);
         } else {
             dispatch({ type:LOADING_START });
-            axios.get(`http://www.omdbapi.com/?apikey=74e4bec3&s=${value}`)
+            axios.get(`https://www.omdbapi.com/?apikey=74e4bec3&s=${value}`)
             .then(res => {
                 if(res.data.Search){
                     dispatch({ type: FETCH_MOVIES, payload: res.data.Search});
@@ -32,7 +32,7 @@ export const fetchMovies = (value) => {
 
 export const fetchMovie = (id) => {
     return function(dispatch) {
-        axios.get(`http://www.omdbapi.com/?apikey=74e4bec3&i=${id}`)
+        axios.get(`https://www.omdbapi.com/?apikey=74e4bec3&i=${id}`)
         .then(res => {
             dispatch({ type: FETCH_MOVIE , payload: res.data});
         });
