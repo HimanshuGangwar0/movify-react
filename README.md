@@ -7,8 +7,8 @@
 * [node](https://nodejs.org/en/)
 * [webpack](https://webpack.github.io/)
 * [react](https://facebook.github.io/react/)
-* [redux]
-* [Axios]
+* [redux](https://redux.js.org/)
+* [Axios](https://github.com/axios/axios)
 * [semantic-ui](http://www.semantic-ui.com/#/)
 * [babel](https://babeljs.io/)
 
